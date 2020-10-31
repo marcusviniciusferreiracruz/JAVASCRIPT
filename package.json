@@ -4,7 +4,7 @@
   "description": "Everything about javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"npm run test\" && exit 1"
+    "test": "npm run test"
   },
   "repository": {
     "type": "git",

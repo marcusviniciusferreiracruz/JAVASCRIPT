@@ -1,1 +1,3 @@
 # JAVASCRIPT
+
+Everything about javascript

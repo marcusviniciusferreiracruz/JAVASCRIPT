@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Everything about javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusviniciusferreiracruz/JAVASCRIPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcusviniciusferreiracruz/JAVASCRIPT/issues"
+  },
+  "homepage": "https://github.com/marcusviniciusferreiracruz/JAVASCRIPT#readme",
+  "dependencies": {
+    "cypress": "^5.5.0"
+  }
+}
